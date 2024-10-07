@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 ---
 ### :hammer_and_wrench: Languages and Tools : 
-<img align="right" src="https://i.pinimg.com/originals/f3/42/b9/f342b94c920d2b7bbf20cb8a63e52762.gif" title="GitGif" **alt="GitGif" width="400" height="400"/>
 <br>
+<img align="right" src="https://i.pinimg.com/originals/f3/42/b9/f342b94c920d2b7bbf20cb8a63e52762.gif" title="GitGif" **alt="GitGif" width="400" height="400"/>
 <div style="align:left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
