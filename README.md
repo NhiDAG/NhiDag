@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 </div>
 
 ---
-  <img src="https://i.pinimg.com/originals/f3/42/b9/f342b94c920d2b7bbf20cb8a63e52762.gif" title="GitGif" **alt="GitGif" width="40" height="40"/>
 ### :hammer_and_wrench: Languages and Tools : 
 <br>
 <div>
@@ -43,4 +42,5 @@ Here are some ideas to get you started:
 </div>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhidag&show_icons=true&locale=en&layout=compact" alt="nhidag" /></p>
-  <
+<img align="right" src="https://i.pinimg.com/originals/f3/42/b9/f342b94c920d2b7bbf20cb8a63e52762.gif" title="GitGif" **alt="GitGif" width="400" height="400"/>
+</div>
