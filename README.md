@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <h3 align="center">A Software Engineering student at FPT University</h3>
 :hammer_and_wrench: Languages and Tools : 
 <br>
+<br>
 <img align="right" src="https://i.pinimg.com/originals/f3/42/b9/f342b94c920d2b7bbf20cb8a63e52762.gif" title="GitGif" **alt="GitGif" width="400" height="400"/>
 <div style="align:left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
