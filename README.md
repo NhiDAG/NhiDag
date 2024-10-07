@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 ---
 ### :hammer_and_wrench: Languages and Tools : 
 <br>
-<br>
 <img align="right" src="https://i.pinimg.com/originals/f3/42/b9/f342b94c920d2b7bbf20cb8a63e52762.gif" title="GitGif" **alt="GitGif" width="400" height="400"/>
 <div style="align:left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -42,6 +41,6 @@ Here are some ideas to get you started:
   <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; -->
 </div>
-<br><br>
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhidag&show_icons=true&locale=en&layout=compact" alt="nhidag" /></p>
 </div>
