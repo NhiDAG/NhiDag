@@ -39,13 +39,9 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="100" height="100"/>
 </div>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhidag&show_icons=true&locale=en&layout=compact" alt="nhidag" /></p>
   <img src="https://i.pinimg.com/originals/f3/42/b9/f342b94c920d2b7bbf20cb8a63e52762.gif" title="GitGif" **alt="GitGif" width="40" height="40"/>
 </div>
-<style>
-  .body-container{
-    display: flex;
-</style>
