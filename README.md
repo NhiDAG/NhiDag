@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
+<h3>I'm learning Software Engineering at FPT Univeristy</h3>
 ### :hammer_and_wrench: Languages and Tools : 
 <br>
 <img align="right" src="https://i.pinimg.com/originals/f3/42/b9/f342b94c920d2b7bbf20cb8a63e52762.gif" title="GitGif" **alt="GitGif" width="400" height="400"/>
