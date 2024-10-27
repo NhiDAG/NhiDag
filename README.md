@@ -35,4 +35,5 @@ Here are some ideas to get you started:
 </div>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhidag&show_icons=true&locale=en&layout=compact" alt="nhidag" /></p>
+<p></p><img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=nhidag&show_icons=true&theme=react&border_color=61dafb&hide_border=true" /></p>
 </div>
