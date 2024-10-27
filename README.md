@@ -34,6 +34,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhidag&show_icons=true&locale=en&layout=compact" alt="nhidag" /></p>
-<p></p><img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=nhidag&show_icons=true&theme=react&border_color=61dafb&hide_border=true" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhidag&show_icons=true&locale=en&layout=compact" alt="nhidag" /></p><br>
+<p></p><img align="left" width="300" src="https://github-readme-stats.vercel.app/api?username=nhidag&show_icons=true&theme=react&border_color=61dafb&hide_border=true" /></p>
 </div>
