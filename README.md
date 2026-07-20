@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40">&nbsp;
 </div>
 <br>
-<p><img align="left" width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhidag&show_icons=true&locale=en&layout=compact&card_width=320" alt="nhidag" /></p><br><br>
-<p><img align="left" width="390" src="https://github-readme-stats.vercel.app/api?username=nhidag&show_icons=true&theme=react&border_color=61dafb&hide_border=true&count_private=true" alt="nhidag" /></p>
+<p><img align="left" width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=NhiDag&show_icons=true&locale=en&layout=compact&card_width=320" alt="nhidag" /></p><br><br>
+<p><img align="left" width="390" src="https://github-readme-stats.vercel.app/api?username=NhiDag&show_icons=true&theme=react&border_color=61dafb&hide_border=true&count_private=true" alt="nhidag" /></p>
 
 </div>
